@@ -3,11 +3,11 @@
     public class TaskModel
     {
 
-        int Id { get; set; }
-        string Title { get; set; }
-        string Description { get; set; }
-        string Status { get; set; }
-        int UserID { get; set; }
+       public int Id { get; set; }
+       public string Title { get; set; }
+       public string Description { get; set; }
+       public  string Status { get; set; }
+       public  int UserID { get; set; }
 
 
     }
